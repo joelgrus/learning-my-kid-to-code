@@ -13,3 +13,7 @@ She likes playing this on her own too.
 ## 2. [mastermind.py](mastermind.py)
 
 This was harder to get right than I expected.
+
+## 3. [hangchicken.py](hangchicken.py)
+
+Like Hangman, but with a chicken instead. Very satisfying.

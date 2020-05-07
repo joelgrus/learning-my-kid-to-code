@@ -18,7 +18,7 @@ This was harder to get right than I expected.
 
 Like Hangman, but with a chicken instead. Very satisfying.
 
-## 4. [madlibs.py](madlibs.py)
+## 4. [madlib.py](madlib.py)
 
 Mad Libs! Every kid's favorite. The dataset is from 
 a [Microsoft EMNLP paper](https://www.microsoft.com/en-us/download/details.aspx?id=55593),

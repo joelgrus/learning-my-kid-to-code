@@ -72,4 +72,7 @@ for i, part in enumerate(parts):
 
     outparts.append(part)
 
+print()
+print()
+
 print("".join(outparts))
